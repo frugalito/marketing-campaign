@@ -1,0 +1,2 @@
+# marketing-campaign
+Create a Customer Journey Based Marketing Plan for one quarter with the goal of getting new customers for your company. -- Budget: $100,000 --- Profit: For the purpose of this assignment, assume a cost of a project $10,000 and a profit margin of 30%, meaning that your company makes $3,000 in profit per project.  --- Campaigns: We want to aggressively grow your business but, we want to do it without losing money.
